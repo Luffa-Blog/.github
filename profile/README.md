@@ -11,7 +11,10 @@
 
 ## 此外还包括了**接口文档**：分别存放在《博客前台》和《博客后台》 的“Interface” 文件夹下 
 
-![image](https://github.com/Luffa-Blog/.github/assets/52227746/55f47367-036c-4e72-adfb-218e0ef08210)
+# 项目大纲
+
+![image](https://github.com/Luffa-Blog/.github/assets/52227746/2e9c6257-c621-4e85-b43a-bc0012a3e6b5)
+
 
 
 
