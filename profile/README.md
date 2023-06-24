@@ -8,7 +8,7 @@
 * 《Blog_tob》-后台   React+TS+AntDesign-Pro
 * 《Blog_toc_server》-后端  Seqlize+Express  MVC
 * 《Blog_tob_server》-后端   Seqlize+Express  MVC
-* 《DataBase》-SQL   MySql
+* 《Blog_dataBase》-SQL   MySql
 
 ## 此外还包括了**接口文档**：分别存放在《Blog_toc》和《Blog_tob》 的“Interface” 文件夹下 
 
